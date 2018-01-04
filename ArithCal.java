@@ -1,4 +1,4 @@
-package courseProject;
+package Java_Calculator;
 import java.util.*;
 public class ArithCal {
     private String ArithText;

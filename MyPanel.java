@@ -1,4 +1,4 @@
-package courseProject;
+package Java_Calculator;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;

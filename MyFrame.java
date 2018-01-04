@@ -1,4 +1,4 @@
-package courseProject;
+package Java_Calculator;
 import java.awt.*;
 import javax.swing.JFrame;
 
